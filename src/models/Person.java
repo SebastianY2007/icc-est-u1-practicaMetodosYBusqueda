@@ -26,6 +26,6 @@ public class Person {
     
     @Override
     public String toString() {
-        return "Person [name=" + name + ", age=" + age + "]";
+        return "[Nombre: " + name + ", Edad: " + age + "]";
     }
 }
